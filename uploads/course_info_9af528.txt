@@ -1,0 +1,148 @@
+COURSE INFORMATION — LEARNTECH TRAINING CENTRE
+RAG Teaching Dataset | Version 1.0
+
+ABOUT THIS FILE
+This file describes a fictional training centre named LearnTech Training Centre. All fees, schedules, contact details, facilities and policies in this file are invented for classroom teaching and RAG testing. This is not an official prospectus for any real institute. The information in this file is the source of truth for the demonstration. When information is missing, the chatbot should say that the file does not provide it.
+
+ABOUT THE TRAINING CENTRE
+LearnTech Training Centre provides practical training in programming, web development, artificial intelligence, data analysis and office tools. LearnTech Training Centre is located in Hyderabad. Courses are available to college students, recent graduates, working professionals and beginners. Training includes explanations, demonstrations, coding exercises, assignments and project work.
+
+PYTHON PROGRAMMING COURSE
+The Python Programming course is also called the Python course. The Python course fee is 12000 rupees. The Python course duration is 3 months. The Python course batch runs Monday to Friday from 5:30 PM to 6:30 PM, Indian Standard Time. The Python course is available online and offline.
+
+The Python course is suitable for beginners. Previous programming experience is not required for the Python course. Students should know basic computer operations such as opening files, using a browser and typing. The Python course covers variables, data types, operators, input and output, conditions, loops, strings, lists, tuples, sets and dictionaries.
+
+The Python course also covers functions, modules, exception handling, file handling, object-oriented programming and introductory database access. Students practise using Jupyter Notebook and a code editor. Python course assignments include a calculator, a marks analyser, a contact book and a file-based expense tracker. The Python course final project is a small expense tracking application. The Python course certificate requires completion of the final project and at least 75 percent attendance.
+
+JAVA PROGRAMMING COURSE
+The Java Programming course is also called the Java course. The Java course fee is 15000 rupees. The Java course duration is 4 months. The Java course batch runs Monday to Friday from 9:00 AM to 10:00 AM, Indian Standard Time. The Java course is available online and offline.
+
+The Java course is suitable for beginners and students preparing for software development roles. The Java course covers Java syntax, variables, operators, conditions, loops, arrays, strings, methods and classes. The Java course explains encapsulation, inheritance, polymorphism, abstraction and interfaces using simple examples.
+
+The Java course also covers collections, exception handling, file handling, introductory multithreading and database connectivity with JDBC. Java course assignments include a bank account simulation, a student marks system and a library record manager. The Java course final project is a console-based library management application. Spring Boot and React are not included in the Java Programming course; those topics belong to separate full stack courses.
+
+DATA ANALYTICS COURSE
+The Data Analytics course fee is 18000 rupees. The Data Analytics course duration is 5 months. The Data Analytics course batch runs Monday to Friday from 6:30 PM to 7:30 PM, Indian Standard Time. The Data Analytics course is available online and offline. The Data Analytics course covers Excel, SQL, Python and Power BI.
+
+The Data Analytics course is suitable for beginners, graduates and professionals interested in analysing business data. The Data Analytics course starts with spreadsheet formulas, sorting, filtering, pivot tables and charts. SQL topics in the Data Analytics course include SELECT queries, joins, grouping, subqueries and basic window functions.
+
+Python topics in the Data Analytics course include NumPy, pandas, data cleaning, missing values, grouping and simple visualisation. Power BI topics include importing data, relationships, basic DAX measures, report pages and dashboard design. The Data Analytics course includes descriptive statistics and introductory exploratory data analysis.
+
+The Data Analytics course final project is a sales performance dashboard using a sample retail dataset. Students answer questions about revenue, products, regions and monthly trends. The Data Analytics course does not include advanced deep learning or training large language models. Students need basic arithmetic skills; advanced mathematics is not an admission requirement.
+
+ARTIFICIAL INTELLIGENCE AND GENERATIVE AI COURSE
+The Artificial Intelligence and Generative AI course is also called the AI course. The AI course fee is 25000 rupees. The AI course duration is 6 months. The AI course batch runs Monday to Friday from 7:30 PM to 8:30 PM, Indian Standard Time. The AI course is available online and offline.
+
+Basic Python knowledge is required for the AI course. The AI course covers data preparation, supervised learning, classification, regression, clustering, training and testing, and model evaluation. The AI course introduces neural networks and natural language processing at a beginner level.
+
+Generative AI topics in the AI course include tokens, tokenizers, language models, prompt design, structured outputs and embeddings. The AI course covers retrieval-augmented generation, vector databases and document question answering. The AI course also introduces tool calling, simple AI agents and human approval before external actions.
+
+The AI course final project is a document-based question answering application. Students load a text file, split its content into chunks, create embeddings, store vectors in Chroma, retrieve relevant passages and generate answers with a small language model. The AI course uses small models and sample datasets suitable for classroom demonstrations. The AI course does not promise that generated answers will always be correct.
+
+JAVA FULL STACK DEVELOPMENT COURSE
+The Java Full Stack Development course fee is 28000 rupees. The Java Full Stack Development course duration is 6 months. The Java Full Stack Development course batch runs Monday to Friday from 10:30 AM to 12:00 noon, Indian Standard Time. Basic Java programming knowledge is recommended for the Java Full Stack Development course.
+
+The Java Full Stack Development course covers HTML, CSS, JavaScript, Bootstrap, Java, Spring Boot, Spring MVC, Spring Data JPA, Hibernate and MySQL. Students learn REST APIs, request validation, database relationships, Git and application deployment basics. The Java Full Stack Development course uses Thymeleaf for its server-rendered project.
+
+The Java Full Stack Development course final project is a student service portal with user login, requests, staff responses and an administration dashboard. The Java Full Stack Development course is different from the 4-month Java Programming course. React is not part of the standard Java Full Stack Development syllabus in this teaching dataset.
+
+PYTHON FULL STACK DEVELOPMENT COURSE
+The Python Full Stack Development course fee is 26000 rupees. The Python Full Stack Development course duration is 6 months. The Python Full Stack Development course batch runs Monday to Friday from 2:00 PM to 3:30 PM, Indian Standard Time. Basic Python programming knowledge is recommended.
+
+The Python Full Stack Development course covers HTML, CSS, JavaScript, Bootstrap, Python, Django and MySQL. Students practise models, views, templates, forms, user authentication and CRUD operations. The Python Full Stack Development course introduces REST APIs and version control with Git.
+
+The Python Full Stack Development course final project is an online appointment booking application. The project includes registration, login, available time slots, booking requests and administrative approval. The Python Full Stack Development course does not include a separate mobile application development module.
+
+MERN STACK DEVELOPMENT COURSE
+The MERN Stack Development course fee is 27000 rupees. The MERN Stack Development course duration is 6 months. The MERN Stack Development course batch runs Monday to Friday from 3:30 PM to 5:00 PM, Indian Standard Time. Basic JavaScript knowledge is recommended.
+
+MERN stands for MongoDB, Express, React and Node.js. The MERN Stack Development course covers JavaScript fundamentals, React components, props, state, forms, routing, Express APIs and MongoDB CRUD operations. Students learn how the frontend communicates with the backend.
+
+The MERN Stack Development course final project is an inventory management application with product records, stock updates and reports. The MERN Stack Development course introduces authentication, validation, Git and deployment basics. Angular is not included in the MERN Stack Development course.
+
+DATA SCIENCE COURSE
+The Data Science course fee is 24000 rupees. The Data Science course duration is 6 months. The Data Science course weekend batch runs Saturday and Sunday from 10:00 AM to 1:00 PM, Indian Standard Time. Basic Python knowledge is recommended.
+
+The Data Science course covers statistics, probability fundamentals, NumPy, pandas, data visualisation, exploratory data analysis and machine learning with scikit-learn. Students learn feature preparation, train-test splits, cross-validation and evaluation metrics. The Data Science course final project predicts customer churn using a sample dataset.
+
+The Data Science course focuses on statistical analysis and predictive modelling. The Data Analytics course focuses on spreadsheets, SQL, data preparation and reporting. The Data Science course does not include training a large language model from scratch.
+
+C AND C++ PROGRAMMING COURSE
+The C and C++ Programming course fee is 9000 rupees. The C and C++ Programming course duration is 2 months. The C and C++ Programming course batch runs Monday to Friday from 4:00 PM to 5:00 PM, Indian Standard Time. No previous programming experience is required.
+
+The C and C++ Programming course covers variables, operators, conditions, loops, functions, arrays, strings and introductory pointers. The C++ portion covers classes, objects, constructors, inheritance and basic file operations. The C and C++ Programming course final project is a simple student record management program.
+
+MS OFFICE AND ADVANCED EXCEL COURSE
+The MS Office and Advanced Excel course fee is 7000 rupees. The MS Office and Advanced Excel course duration is 2 months. The MS Office and Advanced Excel course batch runs Monday to Friday from 11:00 AM to 12:00 noon, Indian Standard Time. Basic computer operation skills are recommended.
+
+The MS Office and Advanced Excel course covers Word document formatting, PowerPoint presentations, Excel formulas, conditional formatting, sorting, filtering, pivot tables and charts. The MS Office and Advanced Excel course final assignment is an employee attendance and monthly expense workbook. Python and Power BI are not included in this course.
+
+ADMISSION PROCESS
+LearnTech Training Centre admission begins with a course enquiry and a counselling discussion. Students select a course, choose online or offline mode, complete a registration form and pay the first installment. Admission requires a name, email address, mobile number and basic education details. LearnTech Training Centre does not conduct an entrance examination for the courses listed in this file.
+
+Students receive their confirmed timetable after admission. The batch schedules listed in this file are the schedules for this teaching dataset. A specific next-batch start date is not provided. Students should contact the training centre to confirm a future batch start date rather than assume that a batch starts on a particular date.
+
+COURSE FEE AND INSTALLMENT POLICY
+Paid course fees may be paid in two equal installments. The first installment is due at admission. The second installment is due within 30 days of the course start date. The Python course installment amount is 6000 rupees each. The Java course installment amount is 7500 rupees each. The Data Analytics course installment amount is 9000 rupees each. The AI course installment amount is 12500 rupees each.
+
+The listed course fees include regular classes, standard digital notes, assignment review and the completion certificate when its conditions are met. A paid software subscription, external certification exam or paid cloud service is not included in the listed fees. This file does not specify taxes, discounts, refunds, cancellation charges or special offers. The chatbot must not invent a refund rule or a discount percentage.
+
+CLASS MODES AND ONLINE ACCESS
+LearnTech Training Centre offers online and offline classes. Offline classes are held in Hyderabad. Online live classes use Google Meet. Online students need an internet connection, a microphone and a device capable of joining a video meeting. A laptop is recommended for coding exercises; a phone alone is not sufficient for completing most development projects.
+
+Students receive online class links through the registered communication channel. Online and offline students complete the same assignments for the same course. This file does not specify whether recordings are provided. The chatbot should not promise class recordings when asked.
+
+ATTENDANCE, ASSIGNMENTS AND CERTIFICATES
+Paid course certificates require at least 75 percent attendance, completion of required assignments and approval of the final project. Students submit course assignments through the learning portal. Trainers review assignments and may request corrections. A student who has not completed the final project has not yet met the certificate requirements.
+
+Course certificates show the student's name, course name and completion date. This file does not provide a certificate verification website or certificate number format. A certificate confirms completion of the training requirements; it does not guarantee employment.
+
+INTERNSHIP PROGRAMME
+The internship duration is 3 months. The internship is free. No application fee, training fee or certificate fee is charged for the internship programme in this teaching dataset. The internship has no guaranteed stipend. Selected participants may be considered for a later paid opportunity based on performance and available positions, but selection is not guaranteed.
+
+Internship domains include Java Development, Python Development, Data Analytics and AI and Generative AI. Internship applicants complete a registration form and wait for administrative approval. Approved interns receive portal access and assigned tasks. Interns may participate online or offline, with offline participation preferred for practical support.
+
+Internship task submissions must include a GitHub repository link, a README file and execution screenshots where applicable. Interns must understand and explain their own work. A mentor may request revisions if a task is incomplete or the intern cannot explain the implementation. The internship completion certificate requires approved mandatory tasks, an accepted final project and a successful viva review.
+
+STUDENT SUPPORT
+Students raise technical doubts through the learning portal. A mentor replies with guidance or requests additional details. Students can request an online support appointment through Google Meet or an office support appointment. Appointment requests require confirmation; a requested time is not automatically approved.
+
+Students should include the error message, relevant code and a description of the expected output when requesting debugging help. This file does not promise a fixed response time for every doubt. Students should never share passwords or API secrets in support messages.
+
+OFFICE HOURS AND FACILITIES
+The LearnTech Training Centre office opens at 9:00 AM and closes at 6:00 PM, Monday to Saturday. The office is closed on Sundays. Office hours are different from class timings; scheduled evening or weekend online classes may take place outside office hours.
+
+The fictional training centre provides classroom seating, internet access during supervised lab sessions and mentor assistance. Students are encouraged to bring a laptop. Hostel accommodation is not described in this file. Hostel rent, transport services, parking charges and a full street address are not provided.
+
+COMPUTER REQUIREMENTS
+A laptop with 8 GB RAM and free storage for programming tools is recommended for introductory programming courses. For web development, analytics and introductory AI projects, 16 GB RAM is preferred. These are practical recommendations for this teaching dataset, not strict admission rules.
+
+A dedicated GPU is not mandatory for the introductory RAG demonstration. Students can use Google Colab for small classroom experiments. Internet access is required to download packages and models on the first run. Availability and limits of external services may change and should be checked separately.
+
+CAREER SUPPORT
+LearnTech Training Centre offers resume review, interview practice and guidance on presenting project work. Placement assistance does not mean guaranteed placement. This file does not provide placement percentages, company partnerships, salary figures or guaranteed interview counts. The chatbot should not invent employment statistics.
+
+DEMO CONTACT INFORMATION
+The fictional training centre email address is admissions@example.com. The fictional website address is https://example.com. These are example addresses for teaching, not real admission channels. This file does not provide an official phone number.
+
+SAMPLE QUESTIONS FOR THE RAG NOTEBOOK
+What is the Python course fee?
+How long is the Python course?
+What time are Java classes held?
+Which subjects are included in the Data Analytics course?
+What is the AI course final project?
+Does the Java Programming course include Spring Boot?
+What is the difference between Data Analytics and Data Science?
+Is the internship free?
+Is an internship stipend guaranteed?
+What must an intern include with a task submission?
+Can course fees be paid in installments?
+What are the course certificate requirements?
+Where are offline classes held?
+What are the office hours?
+Are class recordings guaranteed?
+What is the hostel rent?
+Is placement guaranteed?
+
+MISSING-INFORMATION RULE
+The example questions are questions, not statements of fact. Answer them using the relevant policy or course sections above. If the file does not provide an answer, respond that the information is not available in this file. Retrieved passages are evidence candidates; the chatbot must check that a passage actually answers the question. Similarity alone does not prove that an answer is supported.

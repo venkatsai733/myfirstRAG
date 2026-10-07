@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Local RAG Studio</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <main class="shell">
+    <header class="topbar"><div class="brand"><span class="brand-mark">✦</span><div><strong>Local RAG</strong><small>PRIVATE KNOWLEDGE STUDIO</small></div></div><span class="local-pill"><i></i> Running locally</span></header>
+    <section class="hero"><div><p class="eyebrow">YOUR DOCUMENTS, YOUR ANSWERS</p><h1>Ask your files<br><em>anything.</em></h1><p class="lede">Upload documents and chat with your own private knowledge base. Everything stays on this machine.</p></div><div class="hero-art"><span class="orbit o1"></span><span class="orbit o2"></span><span class="spark">✦</span><div class="art-card">⌁<small>LOCAL<br>FIRST</small></div></div></section>
+    <section class="grid">
+      <div class="panel upload-panel"><div class="panel-head"><div><span class="label">01 / LIBRARY</span><h2>Feed your knowledge base</h2></div><span class="count" id="fileCount">{{ files|length }} files</span></div>
+        <form id="uploadForm"><label class="dropzone" id="dropzone"><input type="file" name="files" id="files" multiple accept=".txt,.pdf,.docx"><span class="upload-icon">↑</span><strong>Drop files here or <u>browse</u></strong><small>TXT, PDF, DOCX · up to 50 MB each</small></label><div id="selected" class="selected"></div><button class="button primary" type="submit">Add to library <span>↗</span></button></form><div id="uploadStatus" class="status"></div>
+        <div class="file-list" id="fileList">{% for file in files %}<div class="file-row"><span class="file-icon">{{ file.name.rsplit('.', 1)[-1].upper() }}</span><div><strong>{{ file.name }}</strong><small>{{ (file.size / 1024)|round(1) }} KB</small></div><span class="check">✓</span></div>{% else %}<div class="empty">Your uploaded files will appear here.</div>{% endfor %}</div>
+      </div>
+      <div class="panel ask-panel"><div class="panel-head"><div><span class="label">02 / ASK</span><h2>Talk to your documents</h2></div><span class="model-pill">FLAN-T5 · {{ device }}</span></div><form id="queryForm"><textarea id="question" placeholder="What would you like to know?" rows="4"></textarea><div class="ask-foot"><span>Answers are grounded in your uploaded files.</span><button class="button dark" type="submit">Ask question <span>↗</span></button></div></form><div id="answer" class="answer"><div class="answer-placeholder"><span>✦</span><p>Your answer will appear here.<br><small>Try asking a question about your library.</small></p></div></div></div>
+    </section>
+    <footer><span>◉ No cloud storage · Your files stay on your computer</span><span id="chunkCount">{{ chunks }} indexed chunks</span></footer>
+  </main>
+  <script src="{{ url_for('static', filename='app.js') }}"></script>
+</body></html>
